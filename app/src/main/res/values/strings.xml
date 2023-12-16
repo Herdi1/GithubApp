@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+
+    <string name="search_hint">Masukkan Username</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="company">Perusahaan</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="number">0</string>
+    <string name="location">Lokasi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+</resources>
